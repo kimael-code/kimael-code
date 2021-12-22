@@ -2,7 +2,7 @@
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Laravel, Inertia with Vue 3 and Bulma
 - 💞️ I’m looking to collaborate on web apps, web systems, SPA, PWA
-- 📫 How to reach me on twitter 😁
+- 📫 How to reach me on twitter `@_kimael_`
 
 <!---
 kimael-code/kimael-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
