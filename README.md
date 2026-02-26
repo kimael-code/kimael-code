@@ -33,7 +33,8 @@ I specialize in developing robust, scalable, and efficient web applications. Wit
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimael-code&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kimael-code&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimael-code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 <!---
